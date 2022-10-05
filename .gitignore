@@ -4,10 +4,11 @@
 /dist
 /tmp
 /out-tsc
+/.angular/cache
 
 # dependencies
 /node_modules
-
+/.angular/cache
 # IDEs and editors
 /.idea
 .project
